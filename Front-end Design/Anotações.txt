@@ -1,0 +1,10 @@
+Estruturas basicas - tags iniciais
+
+
+-headinglines, paragrafos
+-listas
+-tabelas
+-formularios
+-links, multimidias
+-html semantico
+-keywords, meta description

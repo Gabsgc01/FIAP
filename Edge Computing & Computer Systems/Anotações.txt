@@ -1,0 +1,10 @@
+-linguagem humana padrão é decimal
+-maquinas leem 01(bits)
+-exadecimal serva para humanos lerem na linguagem das maquinas
+
+- c serve para sistemas embarcados 
+sugestões de cursos 
+https://www.alura.com.br/formacao-linguagem-c
+
+https://www.alura.com.br/curso-online-introducao-a-programacao-com-c-parte-1
+
