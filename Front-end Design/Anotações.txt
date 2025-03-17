@@ -8,3 +8,4 @@ Estruturas basicas - tags iniciais
 -links, multimidias
 -html semantico
 -keywords, meta description
+dsdda
