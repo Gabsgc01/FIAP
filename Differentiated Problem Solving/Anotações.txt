@@ -1,0 +1,10 @@
+Funções-
+
+-uma Função (f) é uma lei que associ, a cada elemento x um conjunto D que está contido R(numero real)
+- dominio é a variavel x, contradominio é variavel y 
+
+
+1. n é Função
+2. Dom=[-2,2] img=[-1,2]
+3. Dom= [-3,2) ou [-2,-2)
+4. n é função (degrau)
