@@ -1,4 +1,4 @@
-minuto_inicial = 55
+hora_ = int(input("que horas são agora:"))
 passou = int(input("quantos minutos passaram?:"))
 atual = (minuto_inicial+passou)%60
 nova_hora = (minuto_inicial+passou)//60
