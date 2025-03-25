@@ -4,10 +4,7 @@ c = float(input("Insira o valor de c:"))
  
 delta = (b**2 - 4*a*c)
 
-if delta < 0:
-    print ("O delta é menor que 0, então é numero complexo")
-
-else :   
+print("o delta é",delta)
 
 baskara1 = (-b + delta**0.5)/(2*a)
 baskara2 = (-b - delta**0.5)/(2*a)
