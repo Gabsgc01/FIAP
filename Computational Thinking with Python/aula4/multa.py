@@ -11,3 +11,4 @@ elif percentual > 50:
     print("R$ 880,41 e Suspensão da CNH")
 else:
     print("Dentro do limite permitido") 
+    
