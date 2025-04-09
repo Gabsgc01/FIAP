@@ -9,5 +9,7 @@ def calcularIdade(nome,anonNascimeto):
 
 
 a = calcularIdade(input("Qual seu nome:") , int(input("Qual ano voce nasceu:")))
+print(f"a primeira resposta foi {a}")
 b = calcularIdade(input("Qual seu nome:") , int(input("Qual ano voce nasceu:")))
-c = calcularIdade(input("Qual seu nome:") , int(input("Qual ano voce nasceu:")))
+print(f"a primeira resposta foi {b}")
+
